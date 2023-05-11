@@ -1,1 +1,13 @@
 git commands:
+
+git init = initialise project to use git
+git clone <adress> = clone repository onto local device
+git add. = add all changes to be saved
+git commit = save changes
+git push origin main = push changes to github main
+git push origin <branch-name> = push changes to new branch
+git pull origin main = pull changes from github main
+git checkout -b <branch-name> = create a new branch
+git status = check status of changes
+git log = see all previous saved changes
+git checkout <commit hash> = travel back to old commit
